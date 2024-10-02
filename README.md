@@ -72,3 +72,6 @@ Video recorded for execution.
 
 # Docker:
 Docker file added in the repo.
+Below Command needs to be executed to run in Docker:
+To Build: docker build -t robot-framework-tests .
+To Run: docker run --rm -v $(pwd):/usr/src/app robot-framework-tests
