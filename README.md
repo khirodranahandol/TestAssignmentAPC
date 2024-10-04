@@ -7,7 +7,6 @@ Before you get started, ensure you have the following installed on your machine:
 
 - Python installed on your machine (version 3.x recommended).
 - git clone https://github.com/your-repo/api-testing-robot-framework.git
-- cd api-testing-robot-framework
 
 
 ## Installation
